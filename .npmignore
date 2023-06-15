@@ -1,0 +1,13 @@
+# 忽略目录
+node_modules
+.idea
+
+# 忽略指定文件
+package-lock.json
+.editorconfig
+.eslintignore
+.eslintrc.js
+.gitignore
+.npmignore
+.babelrc
+.postcssrc.js
